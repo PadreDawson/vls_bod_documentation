@@ -1,3 +1,6 @@
 # Folders to ignore
 .venv
 source
+
+# Ignore files
+*.code-workspace
