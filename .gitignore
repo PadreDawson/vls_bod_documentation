@@ -1,6 +1,6 @@
 # Folders to ignore
 .venv
-source
+source/_build
 
 # Ignore files
 *.code-workspace
