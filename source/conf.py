@@ -43,6 +43,7 @@ html_theme_options = {
     "show_toc_level": 2,
     "primary_sidebar_end": ['page-toc'],
     "footer_items": ['copyright', 'theme-version'],
+    
 }
 html_context = {
    "default_mode": "light"

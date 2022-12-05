@@ -1,11 +1,15 @@
-.. VLS Board Documentation documentation master file, created by
-   sphinx-quickstart on Thu Dec  1 21:18:33 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 #######################
 VLS Board Documentation
 #######################
+
+.. |govern_icon| image:: _static/govern.png
+     :width: 35
+.. |policy_icon| image:: _static/policy.png
+     :width: 35
+.. |procedure_icon| image:: _static/checklist.png
+     :width: 35
+.. |minutes_icon| image:: _static/notepad.png
+     :width: 35
 
 .. grid:: 2
 
@@ -14,7 +18,7 @@ VLS Board Documentation
          :link-type: ref
          :class-card: sd-rounded-3
          
-         **By-Laws**
+         |govern_icon| **By-Laws**
          ^^^
          *How we govern the mission*
 
@@ -23,7 +27,8 @@ VLS Board Documentation
          :link-type: ref
          :class-card: sd-rounded-3
          
-         **Policies**
+         
+         |policy_icon| **Policies**
          ^^^
          *How we guide the mission*
 
@@ -34,7 +39,7 @@ VLS Board Documentation
          :link-type: ref
          :class-card: sd-rounded-3
          
-         **Procedures**
+         |procedure_icon| **Procedures**
          ^^^
          *How we perform the mission*
 
@@ -43,6 +48,6 @@ VLS Board Documentation
          :link-type: ref
          :class-card: sd-rounded-3
 
-         **Minutes**
+         |minutes_icon| **Minutes**
          ^^^
          *What we've done for the mission*
