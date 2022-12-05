@@ -3,47 +3,46 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+#######################
 VLS Board Documentation
-=======================
+#######################
 
 .. grid:: 2
 
-    .. grid-item-card::  By-Laws
+    .. grid-item-card::
          :link: by_laws_label
          :link-type: ref
          :class-card: sd-rounded-3
+         
+         **By-Laws**
+         ^^^
+         *How we govern the mission*
 
-         How we govern the mission
-
-    .. grid-item-card::  Policies
+    .. grid-item-card::
          :link: policies_label
          :link-type: ref
          :class-card: sd-rounded-3
-
-         How we guide the mission
+         
+         **Policies**
+         ^^^
+         *How we guide the mission*
 
 .. grid:: 2
 
-    .. grid-item-card::  Procedures
+    .. grid-item-card::
          :link: procedures_label
          :link-type: ref
          :class-card: sd-rounded-3
+         
+         **Procedures**
+         ^^^
+         *How we perform the mission*
 
-         How we perform the mission
-
-    .. grid-item-card::  Minutes
+    .. grid-item-card::
          :link: minutes_label
          :link-type: ref
          :class-card: sd-rounded-3
 
-         What we've done for the mission
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-
-   by_laws/index.rst
-   policies/index.rst
-   procedures/index.rst
-   minutes/index.rst
+         **Minutes**
+         ^^^
+         *What we've done for the mission*
